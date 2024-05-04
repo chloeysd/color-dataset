@@ -1,0 +1,11 @@
+A secondary colour is a colour made by mixing of two primary colours in a given colour space.
+ For the human eye, good primary colors of light are red, green, and blue.  Combining lights of these colors produces a large range of visible colors.
+ That is, the primary and secondary RGB colors (with secondary colors in boldface) are: 
+ Combining RGB colors means adding light (thus the term "additive color"), and the combinations are brighter.  When all three primaries are combined in equal amounts, the result is white.
+ The RGB secondary colors produced by the addition of light turn out to be good primary colors for pigments, the mixing of which subtracts light.
+ Pigments, such as inks and paint, display color by absorbing some wavelengths of light and reflecting the remainder.  When pigments are combined, they absorb the combination of their colors, and reflect less.  Thus, combining pigments results in a darker color.  This is called subtractive color-mixing, as mixing pigments subtracts wavelengths from the light that is reflected.
+ The mixture of equal amounts of these colors produce the secondary colors red, blue, and "lime" green (the RGB primary colors of light), as follows:
+ That is, the primary and secondary CMY colors (with secondary colors in boldface) are: 
+ Ideally, combining three perfect primary colors in equal amounts would produce black, but this is impossible to achieve in practice. Therefore a "key" pigment, usually black, is added to printing to produce dark shades more efficiently. This combination is referred to as CMYK, where K stands for Key.
+ Before the discovery of CMY, at least as far back as Goethe, the best primary colors were thought to be red, yellow, and blue. Mixing these pigments in equal amounts produces orange, green, and purple:[1]
+ That is, the primary and secondary RYB colors (with secondary colors in boldface) are:[2]
